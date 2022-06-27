@@ -7,4 +7,5 @@
 * 5-print_string.py - prints a string 3 times followed by its first 9 characters
 * 6-concat.py -  prints a concatenated string
 * 7-edges.py - prints manipulated strings
+* 8-concat_edges.py - prints a string followed by a new line
 
