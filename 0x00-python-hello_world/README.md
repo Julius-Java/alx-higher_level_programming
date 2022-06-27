@@ -6,4 +6,5 @@
 * 4-print_float.py - prints a float stored in a variable with a precision of 2 digits
 * 5-print_string.py - prints a string 3 times followed by its first 9 characters
 * 6-concat.py -  prints a concatenated string
+* 7-edges.py - prints manipulated strings
 
