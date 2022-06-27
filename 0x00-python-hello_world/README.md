@@ -8,4 +8,5 @@
 * 6-concat.py -  prints a concatenated string
 * 7-edges.py - prints manipulated strings
 * 8-concat_edges.py - prints a string followed by a new line
+* 9-easter_egg.py - prints a string followed by  a new line
 
