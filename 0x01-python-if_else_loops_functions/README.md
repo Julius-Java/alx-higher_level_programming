@@ -9,4 +9,5 @@
 * 7-islower.py - function checks for lower case character
 * 8-uppercase.py - function prints a string in uppercase followed by a new line
 * 9-print_last_digit.py - function prints the last digit of a number
+* 10-add.py - function adds two intergers and returns the result
 
