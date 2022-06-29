@@ -8,4 +8,5 @@
 * 6-print_comb3.py - prints all possible combination of two different digits in ascending order
 * 7-islower.py - function checks for lower case character
 * 8-uppercase.py - function prints a string in uppercase followed by a new line
+* 9-print_last_digit.py - function prints the last digit of a number
 
