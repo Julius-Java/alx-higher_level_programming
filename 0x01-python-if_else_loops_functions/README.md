@@ -7,4 +7,5 @@
 * 5-print_comb2.py - prints numbers from 0 - 99 with commas and spaces in between the numbers
 * 6-print_comb3.py - prints all possible combination of two different digits in ascending order
 * 7-islower.py - function checks for lower case character
+* 8-uppercase.py - function prints a string in uppercase followed by a new line
 
