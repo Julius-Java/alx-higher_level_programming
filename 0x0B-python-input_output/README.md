@@ -40,4 +40,12 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 5: Write a function that writes an Object to a text file, using a JSON representation: <br>
+	Prototype: def save_to_json_file(my_obj, filename): <br>
+	You must use the with statement <br>
+	You don’t need to manage exceptions if the object can’t be serialized. <br>
+	You don’t need to manage file permission exceptions. <br>
+	test case file: no test cases needed <br>
+<br>
+
 
