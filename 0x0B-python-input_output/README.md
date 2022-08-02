@@ -65,4 +65,12 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 8: Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object: <br>
+	Prototype: def class_to_json(obj): <br>
+	obj is an instance of a Class <br>
+	All attributes of the obj Class are serializable: list, dictionary, string, integer and boolean <br>
+	You are not allowed to import any module <br>
+	test case file: no test casses needed <br>
+<br>
+
 
