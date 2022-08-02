@@ -37,4 +37,10 @@
 	test case file: no test case required <br>
 <br>
 
+* Task 6: Write a class BaseGeometry (based on 5-base_geometry.py). <br>
+	Public instance method: def area(self): that raises an Exception with the message area() is not implemented <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases required <br>
+<br>
+
 
