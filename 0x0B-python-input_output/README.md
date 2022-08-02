@@ -19,4 +19,13 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 2: Write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added: <br>
+	Prototype: def append_write(filename="", text=""): <br>
+	If the file doesn’t exist, it should be created <br>
+	You must use the with statement <br>
+	You don’t need to manage file permission or file doesn't exist exceptions. <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases needed <br>
+<br>
+
 
