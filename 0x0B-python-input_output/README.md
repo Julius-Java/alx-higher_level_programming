@@ -56,4 +56,12 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 7: Write a script that adds all arguments to a Python list, and then save them to a file: <br>
+	You must use your function save_to_json_file from 5-save_to_json_file.py <br>
+	You must use your function load_from_json_file from 6-load_from_json_file.py <br>
+	The list must be saved as a JSON representation in a file named add_item.json <br>
+	If the file doesn’t exist, it should be create <br>
+	You don’t need to manage file permissions / exceptions. <br>
+<br>
+
 
