@@ -77,4 +77,13 @@
 	test case file: no test cases required <br>
 <br>
 
+* Task 11: Write a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py). <br>
+	Instantiation with size: def __init__(self, size): <br>
+		>> size must be private. No getter or setter <br>
+		>> size must be a positive integer, validated by integer_validator <br>
+	the area() method must be implemented <br>
+	print() should print, and str() should return, the square description: [Square] <width>/<height> <br>
+	test case file: no test cases required <br>
+<br>
+
 
