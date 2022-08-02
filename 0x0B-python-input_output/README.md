@@ -9,4 +9,14 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 1: Write a function that writes a string to a text file (UTF8) and returns the number of characters written: <br>
+	Prototype: def write_file(filename="", text=""): <br>
+	You must use the with statement <br>
+	You don’t need to manage file permission exceptions. <br>
+	Your function should create the file if doesn’t exist. <br>
+	Your function should overwrite the content of the file if it already exists. <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases needed <br>
+<br>
+
 
