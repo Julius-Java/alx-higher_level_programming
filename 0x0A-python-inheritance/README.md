@@ -19,3 +19,11 @@
 	You are not allowed to import any module <br>
 	test case file: no test case required <br>
 <br>
+
+* Task 3: Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False. <br>
+	Prototype: def is_kind_of_class(obj, a_class): <br>
+	You are not allowed to import any module <br>
+	test case file: no test case required <br>
+<br>
+
+
