@@ -7,4 +7,9 @@
 	You are not allowed to import any module <br>
 <br>
 
+* Task 1: Write a class MyList that inherits from list: <br>
+	Public instance method: def print_sorted(self): that prints the list, but sorted (ascending sort) <br>
+	You can assume that all the elements of the list will be of type int <br>
+	You are not allowed to import any module <br>
+<br>
 
