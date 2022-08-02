@@ -60,4 +60,13 @@
 	test case file: no test cases required <br>
 <br>
 
+* Task 9: Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py) <br>
+	Instantiation with width and height: def __init__(self, width, height):: <br>
+		>> width and height must be private. No getter or setter
+		>> width and height must be positive integers validated by integer_validator <br>
+	the area() method must be implemented <br>
+	print() should print, and str() should return, the following rectangle description: [Rectangle] <width>/<height> <br>
+	test case file: no test cases required <br>
+<br>
+
 
