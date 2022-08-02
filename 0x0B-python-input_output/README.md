@@ -48,4 +48,12 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 6: Write a function that creates an Object from a “JSON file”: <br>
+	Prototype: def load_from_json_file(filename): <br>
+	You must use the with statement <br>
+	You don’t need to manage exceptions if the JSON string doesn’t represent an object. <br>
+	You don’t need to manage file permissions / exceptions. <br>
+	test case file: no test cases needed <br>
+<br>
+
 
