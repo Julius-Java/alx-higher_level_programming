@@ -34,4 +34,10 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 4: Write a function that returns an object (Python data structure) represented by a JSON string: <br>
+	Prototype: def from_json_string(my_str): <br>
+	You don’t need to manage exceptions if the JSON string doesn’t represent an object. <br>
+	test case file: no test cases needed <br>
+<br>
+
 
