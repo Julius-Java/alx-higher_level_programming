@@ -28,4 +28,10 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 3: Write a function that returns the JSON representation of an object (string):
+	Prototype: def to_json_string(my_obj): <br>
+	You don’t need to manage exceptions if the object can’t be serialized. <br>
+	test case file: no test cases needed <br>
+<br>
+
 
