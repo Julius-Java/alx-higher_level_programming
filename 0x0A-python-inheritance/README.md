@@ -32,4 +32,9 @@
 	test case file: no test case required <br>
 <br>
 
+* Task 5: Write an empty class BaseGeometry. <br>
+	You are not allowed to import any module <br>
+	test case file: no test case required <br>
+<br>
+
 
