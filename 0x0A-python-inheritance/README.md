@@ -26,4 +26,10 @@
 	test case file: no test case required <br>
 <br>
 
+* Task 4: Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False. <br>
+	Prototype: def inherits_from(obj, a_class): <br>
+	You are not allowed to import any module <br>
+	test case file: no test case required <br>
+<br>
+
 
