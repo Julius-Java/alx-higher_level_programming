@@ -50,6 +50,14 @@
 		>> if value is not an integer: raise a TypeError exception, with the message <name> must be an integer <br>
 		>> if value is less or equal to 0: raise a ValueError exception with the message <name> must be greater than 0 <br>
 	You are not allowed to import any module <br>
+	test case file: ./tests/7-base_geometry.txt <br>
+<br>
+
+* Task 8: Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). <br>
+	Instantiation with width and height: def __init__(self, width, height): <br>
+		>> width and height must be private. No getter or setter <br>
+		>> width and height must be positive integers, validated by integer_validator <br>
+	test case file: no test cases required <br>
 <br>
 
 
