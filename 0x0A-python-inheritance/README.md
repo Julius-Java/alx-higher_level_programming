@@ -86,4 +86,10 @@
 	test case file: no test cases required <br>
 <br>
 
+* Task 12: Write a class MyInt that inherits from int: <br>
+	MyInt is a rebel. MyInt has == and != operators inverted <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases required <br>
+<br>
+
 
