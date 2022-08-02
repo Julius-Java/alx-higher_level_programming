@@ -62,6 +62,7 @@
 	The list must be saved as a JSON representation in a file named add_item.json <br>
 	If the file doesn’t exist, it should be create <br>
 	You don’t need to manage file permissions / exceptions. <br>
+	test case file: no test cases needed <br>
 <br>
 
 
