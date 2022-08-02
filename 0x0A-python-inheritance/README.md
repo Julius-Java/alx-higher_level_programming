@@ -92,4 +92,9 @@
 	test case file: no test cases required <br>
 <br>
 
-
+* Task 13: Write a function that adds a new attribute to an object if it’s possible: <br>
+	Raise a TypeError exception, with the message can't add new attribute if the object can’t have new attribute <br>
+	You are not allowed to use try/except <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases required <br>
+<br>
