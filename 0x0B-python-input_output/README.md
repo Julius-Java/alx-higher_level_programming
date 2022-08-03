@@ -73,4 +73,15 @@
 	test case file: no test casses needed <br>
 <br>
 
+* Task 9: Write a class Student that defines a student by: <br>
+	Public instance attributes: <br>
+		>> first_name <br>
+		>> last_name <br>
+		>> age <br>
+	Instantiation with first_name, last_name and age: def __init__(self, first_name, last_name, age): <br>
+	Public method def to_json(self): that retrieves a dictionary representation of a Student instance (same as 8-class_to_json.py) <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases needed <br>
+<br>
+
 
