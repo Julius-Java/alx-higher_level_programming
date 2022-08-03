@@ -115,4 +115,13 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 12: Technical interview preparation:
+	You are not allowed to google anything <br>
+	Whiteboard first <br>
+	Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n: <br>
+		>> Returns an empty list if n <= 0 <br>
+		>> You can assume n will be always an integer <br>
+		>> You are not allowed to import any module <br>
+<br>
+
 
