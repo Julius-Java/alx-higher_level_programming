@@ -97,4 +97,22 @@
 	test case file: no test cases needed <br>
 <br>
 
+* Task 11: Write a class Student that defines a student by: (based on 10-student.py) <br>
+	Public instance attributes: <br>
+		>> first_name <br>
+		>> last_name <br>
+		>> age <br>
+	Instantiation with first_name, last_name and age: def __init__(self, first_name, last_name, age): <br>
+	Public method def to_json(self, attrs=None): that retrieves a dictionary representation of a Student instance (same as 8-class_to_json.py): <br>
+		>> if attrs is a list of strings, only attributes name contain in this list must be retrieved. <br>
+		>> Otherwise, all attributes must be retrieved <br>
+	Public method def reload_from_json(self, json): that replaces all attributes of the Student instance: <br>
+		>> You can assume json will always be a dictionary <br>
+		>> A dictionary key will be the public attribute name <br>
+		>> A dictionary value will be the value of the public attribute <br>
+	You are not allowed to import any module <br>
+	Now, you have a simple implementation of a serialization and deserialization mechanism (concept of representation of an object to another format, without losing any information and allow us to rebuild an object based on this representation)
+	test case file: no test cases needed <br>
+<br>
+
 
