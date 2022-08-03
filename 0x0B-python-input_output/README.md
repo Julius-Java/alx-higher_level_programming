@@ -124,4 +124,23 @@
 		>> You are not allowed to import any module <br>
 <br>
 
+* Task 13: Write a function that inserts a line of text to a file, after each line containing a specific string (see example): <br>
+	Prototype: def append_after(filename="", search_string="", new_string=""): <br>
+	You must use the with statement <br>
+	You don’t need to manage file permission or file doesn't exist exceptions. <br>
+	You are not allowed to import any module <br>
+	test case file: no test cases needed <br>
+<br>
 
+* Task 14: Write a script that reads stdin line by line and computes metrics: <br>
+	Input format: <IP Address> - [<date>] "GET /projects/260 HTTP/1.1" <status code> <file size> <br>
+	Each 10 lines and after a keyboard interruption (CTRL + C), prints those statistics since the beginning: <br>
+		>> Total file size: File size: <total size> <br>
+		>> where is the sum of all previous (see input format above) <br>
+		>> Number of lines by status code: <br>
+			** possible status code: 200, 301, 400, 401, 403, 404, 405 and 500 <br>
+			** if a status code doesn’t appear, don’t print anything for this status code <br>
+			** format: <status code>: <number> <br>
+			** status codes should be printed in ascending order <br>
+	test case file: no test case needed <br>
+<br>
