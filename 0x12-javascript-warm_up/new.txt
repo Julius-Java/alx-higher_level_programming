@@ -1,0 +1,8 @@
+// } else {
+// 	let numInt = parseInt(commandArgs[2]);
+// 	if (numInt === 'Nan') {
+// 		console.log('Not a number');
+// 	} else {
+// 		console.log(numInt);
+// 	}
+// }
